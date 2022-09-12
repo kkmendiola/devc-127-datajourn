@@ -8,13 +8,9 @@ The sheer scale of data available now has provided new opportunities and possibi
 
 DEVC 127 is a required specialization course in the BSDC curriculum.
 
-```
-{
 Visit course [website](https://www.notion.so/devc-127-datajourn/DEVC-127-Data-Journalism-for-Development-9c3e3cc77f174a74a8d8e5b42fa1cbb2) for more context
 
 Email rbmendiola@up.edu.ph for inquiries.
-}
-``` 
 
 *Link to YT lecture playlist to follow.*
 
