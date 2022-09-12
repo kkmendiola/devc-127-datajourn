@@ -1,7 +1,8 @@
 # DEVC 127 DATA JOURNALISM FOR DEVELOPMENT
 Contains all the resources for DEVC 127: Data Journalism for Development
 
-**This repository contains all the course materials needed for DEVC 127.** ==Updated weekly==
+**This repository contains all the course materials needed for DEVC 127. Updated weekly**
+
 Created and maintained starting 1S AY 2022-2023
 
 The sheer scale of data available now has provided new opportunities and possibilities for storytelling, particularly of development issues and concerns. Data journalism entails a nose for news and good storytelling skills/techniques bolstered by massive digital information. In this course, students will acquire conceptual background and skills that will enable them to tell stories using small and big data. In this way, students will be able to tell stories about complex development issues in the community in new and deeper perspectives. 
